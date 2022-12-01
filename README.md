@@ -15,8 +15,10 @@
   </p>
 
   <br>
-
+  
+  <p align="center">
   ![preview](images/mobile.png)
+  </p>
 
   ## 🚀 Tecnologias
 
