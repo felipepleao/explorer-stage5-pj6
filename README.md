@@ -16,7 +16,7 @@
 
   <br>
    
-  ![preview](images/mobile.png)
+  ![preview](mobile.png)
 
 
   ## 🚀 Tecnologias
