@@ -38,7 +38,7 @@ function handleClickReset(event) {
   toggle();
   inputNumber.value = "";
   randomNumber = Math.round(Math.random() * 10);
-  inputNumber.value.setAttribute(autofocus)
+  inputNumber.focus()
   xAttempts = 1;
 }
 
